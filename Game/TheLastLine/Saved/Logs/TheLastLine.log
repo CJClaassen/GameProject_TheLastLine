@@ -2877,3 +2877,80 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.27-17.21.26:241][ 75]LogSavePackage: Moving '../../../../../../Documents/Tukkies/2019/IMY 300/Project/GameProject/Game/TheLastLine/Saved/Devastator_BPC15DB4C94ADB0C9D8E5426962BBCDBFD.tmp' to '../../../../../../Documents/Tukkies/2019/IMY 300/Project/GameProject/Game/TheLastLine/Content/Props/Devastator/Devastator_BP.uasset'
 [2019.06.27-17.22.04:045][548]LogSavePackage: Moving '../../../../../../Documents/Tukkies/2019/IMY 300/Project/GameProject/Game/TheLastLine/Saved/TopDownExampleMapBEB9DA004E12DC12B8F1D6B364E3C6A4.tmp' to '../../../../../../Documents/Tukkies/2019/IMY 300/Project/GameProject/Game/TheLastLine/Content/TopDownBP/Maps/TopDownExampleMap.umap'
 [2019.06.27-17.22.04:180][548]LogSavePackage: Moving '../../../../../../Documents/Tukkies/2019/IMY 300/Project/GameProject/Game/TheLastLine/Saved/TopDownExampleMap_BuiltData837A66A34181A1E97A649B9E8E30B5B5.tmp' to '../../../../../../Documents/Tukkies/2019/IMY 300/Project/GameProject/Game/TheLastLine/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2019.06.27-17.38.32:905][297]BlueprintLog: New page: Compile Devastator_BP
+[2019.06.27-17.38.33:608][313]LogSavePackage: Moving '../../../../../../Documents/Tukkies/2019/IMY 300/Project/GameProject/Game/TheLastLine/Saved/Devastator_BP7D9267BC481313C2CCACFF83C42977B0.tmp' to '../../../../../../Documents/Tukkies/2019/IMY 300/Project/GameProject/Game/TheLastLine/Content/Props/Devastator/Devastator_BP.uasset'
+[2019.06.27-17.38.54:005][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.27-17.38.54:187][461]LogSavePackage: Moving '../../../../../../Documents/Tukkies/2019/IMY 300/Project/GameProject/Game/TheLastLine/Saved/Devastator_BPD91EB065433781FDB2D1C2A9F2B4FAF1.tmp' to '../../../../../../Documents/Tukkies/2019/IMY 300/Project/GameProject/Game/TheLastLine/Content/Props/Devastator/Devastator_BP.uasset'
+[2019.06.27-17.38.58:251][900]LogSavePackage: Moving '../../../../../../Documents/Tukkies/2019/IMY 300/Project/GameProject/Game/TheLastLine/Saved/Devastator_BP642097194A4D0456679BAFB2553E168D.tmp' to '../../../../../../Documents/Tukkies/2019/IMY 300/Project/GameProject/Game/TheLastLine/Content/Props/Devastator/Devastator_BP.uasset'
+[2019.06.27-17.40.48:609][920]BlueprintLog: New page: Compile Devastator_BP
+[2019.06.27-17.40.49:308][939]LogSavePackage: Moving '../../../../../../Documents/Tukkies/2019/IMY 300/Project/GameProject/Game/TheLastLine/Saved/Devastator_BP0616550B4F5EF25433E96D9443746993.tmp' to '../../../../../../Documents/Tukkies/2019/IMY 300/Project/GameProject/Game/TheLastLine/Content/Props/Devastator/Devastator_BP.uasset'
+[2019.06.27-17.42.25:637][270]BlueprintLog: New page: Compile Devastator_BP
+[2019.06.27-17.42.26:572][303]LogSavePackage: Moving '../../../../../../Documents/Tukkies/2019/IMY 300/Project/GameProject/Game/TheLastLine/Saved/Devastator_BPA2479ED74327DA359783F7BD6DE78526.tmp' to '../../../../../../Documents/Tukkies/2019/IMY 300/Project/GameProject/Game/TheLastLine/Content/Props/Devastator/Devastator_BP.uasset'
+[2019.06.27-17.42.48:490][698]LogTemp: Repeating last play command: Simulate
+[2019.06.27-17.42.48:534][698]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.27-17.42.48:534][698]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.27-17.42.48:535][698]PIE: New page: SIE session: TopDownExampleMap (27 Jun 2019, 3:42:48 AM)
+[2019.06.27-17.42.48:535][698]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.06.27-17.42.48:545][698]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010746s)
+[2019.06.27-17.42.48:546][698]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.06.27-17.42.48:546][698]LogPlayLevel: PIE: World Init took: (0.000575s)
+[2019.06.27-17.42.48:546][698]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.011464s)
+[2019.06.27-17.42.48:590][698]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.27-17.42.48:607][698]LogInit: FAudioDevice initialized.
+[2019.06.27-17.42.48:637][698]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.06.27-17.42.48:639][698]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.06.27-10.42.48
+[2019.06.27-17.42.48:640][698]LogWorld: Bringing up level for play took: 0.001832
+[2019.06.27-17.42.48:652][698]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.27-17.42.48:653][698]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0,527
+[2019.06.27-17.42.48:655][698]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.27-17.43.18:025][101]LogEditorViewport: Clicking on Actor (LMB): Devastator_BP_C (Devastator_BP)
+[2019.06.27-17.43.38:747][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.27-17.44.04:263][ 34]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.27-17.44.04:263][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.27-17.44.04:314][ 34]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.27-17.44.04:315][ 34]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.27-17.44.04:350][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.27-17.44.04:449][ 35]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.06.27-17.44.09:725][465]LogSavePackage: Moving '../../../../../../Documents/Tukkies/2019/IMY 300/Project/GameProject/Game/TheLastLine/Saved/Devastator_BPF5B12F3449AC95648C5956B70001D662.tmp' to '../../../../../../Documents/Tukkies/2019/IMY 300/Project/GameProject/Game/TheLastLine/Content/Props/Devastator/Devastator_BP.uasset'
+[2019.06.27-17.44.10:529][533]BlueprintLog: New page: Compile Devastator_BP
+[2019.06.27-17.44.15:389][907]LogTemp: Repeating last play command: Simulate
+[2019.06.27-17.44.15:434][907]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.27-17.44.15:434][907]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.27-17.44.15:434][907]PIE: New page: SIE session: TopDownExampleMap (27 Jun 2019, 3:44:15 AM)
+[2019.06.27-17.44.15:434][907]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.06.27-17.44.15:445][907]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010754s)
+[2019.06.27-17.44.15:445][907]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.06.27-17.44.15:445][907]LogPlayLevel: PIE: World Init took: (0.000567s)
+[2019.06.27-17.44.15:445][907]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.011470s)
+[2019.06.27-17.44.15:489][907]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.27-17.44.15:504][907]LogInit: FAudioDevice initialized.
+[2019.06.27-17.44.15:536][907]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.06.27-17.44.15:538][907]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.06.27-10.44.15
+[2019.06.27-17.44.15:539][907]LogWorld: Bringing up level for play took: 0.001819
+[2019.06.27-17.44.15:551][907]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.27-17.44.15:552][907]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0,574
+[2019.06.27-17.44.15:554][907]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.27-17.44.23:400][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.06.27-17.44.25:673][712]LogEditorViewport: Clicking on Actor (LMB): Devastator_BP_C (Devastator_BP)
+[2019.06.27-17.44.52:667][844]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.27-17.44.53:888][945]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.27-17.44.53:889][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.27-17.44.53:936][945]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.27-17.44.53:937][945]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.27-17.44.53:975][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.27-17.44.54:070][946]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.06.27-17.46.04:506][766]LogEditorTransaction: Undo Modify Component(s)
+[2019.06.27-17.46.15:326][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.27-17.46.15:411][922]BlueprintLog: New page: Compile Devastator_BP
+[2019.06.27-17.46.16:312][967]LogSavePackage: Moving '../../../../../../Documents/Tukkies/2019/IMY 300/Project/GameProject/Game/TheLastLine/Saved/Devastator_BP2A6B3BE2495C80577BCD72B8C050E9E8.tmp' to '../../../../../../Documents/Tukkies/2019/IMY 300/Project/GameProject/Game/TheLastLine/Content/Props/Devastator/Devastator_BP.uasset'
+[2019.06.27-17.47.15:843][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.27-17.47.18:668][280]LogSavePackage: Moving '../../../../../../Documents/Tukkies/2019/IMY 300/Project/GameProject/Game/TheLastLine/Saved/Devastator_BP12A096554671D99DB5DD929F7468B19B.tmp' to '../../../../../../Documents/Tukkies/2019/IMY 300/Project/GameProject/Game/TheLastLine/Content/Props/Devastator/Devastator_BP.uasset'
+[2019.06.27-17.47.19:782][393]BlueprintLog: New page: Compile Devastator_BP
+[2019.06.27-17.47.35:834][793]BlueprintLog: New page: Compile Devastator_BP
+[2019.06.27-17.47.36:784][828]LogSavePackage: Moving '../../../../../../Documents/Tukkies/2019/IMY 300/Project/GameProject/Game/TheLastLine/Saved/Devastator_BPC8C9E9E34DCD774ED4E91E9A825535A0.tmp' to '../../../../../../Documents/Tukkies/2019/IMY 300/Project/GameProject/Game/TheLastLine/Content/Props/Devastator/Devastator_BP.uasset'
+[2019.06.27-17.48.52:876][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.27-17.49.01:588][847]BlueprintLog: New page: Compile Devastator_BP
+[2019.06.27-17.49.02:310][863]LogSavePackage: Moving '../../../../../../Documents/Tukkies/2019/IMY 300/Project/GameProject/Game/TheLastLine/Saved/Devastator_BP6C3F072447074FE694F3978EB580F8A6.tmp' to '../../../../../../Documents/Tukkies/2019/IMY 300/Project/GameProject/Game/TheLastLine/Content/Props/Devastator/Devastator_BP.uasset'
+[2019.06.27-17.49.30:130][311]LogSavePackage: Moving '../../../../../../Documents/Tukkies/2019/IMY 300/Project/GameProject/Game/TheLastLine/Saved/TopDownExampleMap_Auto67E5C9A2C4A91CF344AA7839B40FE66E9.tmp' to '../../../../../../Documents/Tukkies/2019/IMY 300/Project/GameProject/Game/TheLastLine/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto6.umap'
+[2019.06.27-17.49.30:134][311]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.317
+[2019.06.27-17.49.30:134][311]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.317
